@@ -9,5 +9,9 @@ galaxy_info:
 
   galaxy_tags: []
     #       Maximum 20 tags per role.
+  platforms:
+  - name: Fedora
+    versions:
+    - 25
 
 dependencies: []
