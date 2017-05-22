@@ -1,0 +1,2 @@
+debug: ""
+logstash_image: "t0ffel/logstash"
